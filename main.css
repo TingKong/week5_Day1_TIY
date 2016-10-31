@@ -9,9 +9,11 @@ html, body{
 }
 
 .main_wrap{
-       width: 89%;
+       width: 1200px;
     margin:0px auto;
         color:#000;
+         padding: 0px 30px;
+
 
 }
 .main_wrap h1{
@@ -53,6 +55,7 @@ margin-left:50px;
     .main_wrap  {
             width: 80%;
             margin-left: 22px;
+            padding:0px;
     }
     
     .main_wrap h1{
